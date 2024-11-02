@@ -43,8 +43,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <br>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Rafacv23&repo=Rafacv23&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Contact with me 📝
 
 [<img align="left" alt="rafacanosa.dev" height="30px" src="https://cdn-icons-png.flaticon.com/128/10453/10453141.png" />][website]
