@@ -103,10 +103,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ---
 
-### ⭐️ From [Rafacv23](https://github.com/Rafacv23) ### 
-
----
-
 [website]: https://www.rafacanosa.dev/
 [instagram]: https://www.instagram.com/rafa_canosa_/
 [linkedin]: https://www.linkedin.com/in/rafa-canosa-vallejo-6328a5194/
