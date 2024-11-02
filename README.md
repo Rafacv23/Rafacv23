@@ -34,7 +34,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ---
 
-## GitHub Thropies 🏆 :
+## GitHub Thropies 🏆
 
 <br>
 
@@ -46,7 +46,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ### Contact with me 📝
 
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="rafacanosa.dev" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
 [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
