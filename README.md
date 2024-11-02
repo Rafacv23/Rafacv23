@@ -46,10 +46,10 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ### Contact with me 📝
 
-[<img align="left" alt="rafacanosa.dev" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="rafacanosa.dev" height="30px" src="https://cdn-icons-png.flaticon.com/128/2721/2721688.png" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/128/3669/3669986.png" />][Spotify]
 
 <br />
 
