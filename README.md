@@ -52,8 +52,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafacv23&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="rafacv23" /></p>
-
 ---
 
 ### Languages and Tools 🛠 
@@ -98,6 +96,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafacv23&theme=react&line_height=40&hide=css"/>
     </a>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafacv23&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="rafacv23" /></p>
 </div
 
 <br/>
