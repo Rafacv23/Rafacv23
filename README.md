@@ -1,7 +1,5 @@
 # Hi there, I'm Rafa Canosa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'm a Frontend web developer
 
 - 👨‍💻 I’m currently working on web development technologies like TypeScript, React etc.
