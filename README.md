@@ -48,9 +48,9 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 ### Contact with me 📝
 
 [<img align="left" alt="rafacanosa.dev" height="30px" src="https://cdn-icons-png.flaticon.com/128/10453/10453141.png" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/128/3669/3669986.png" />][Spotify]
+[<img align="left" alt="rafacanosa.dev | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"/>][linkedin]
+[<img align="left" alt="rafacanosa.dev | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" />][instagram]
+[<img align="left" alt="rafacanosa.dev | Spotify" height="30px" src="https://cdn-icons-png.flaticon.com/128/3669/3669986.png" />][Spotify]
 
 <br />
 
