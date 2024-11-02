@@ -1,4 +1,4 @@
-# Hi there, I'm Rafa Canosa <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Rafa Canosa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -13,9 +13,28 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/user/296b9cd84b984075])
+```text
+🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
+🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
+Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
+
+```
 
 ---
 
