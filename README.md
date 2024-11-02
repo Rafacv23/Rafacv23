@@ -1,4 +1,4 @@
-# Hi there, I'm Rafa Canosa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there, I'm [Rafa Canosa](https://github.com/Rafacv23) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ![GitHub followers](https://img.shields.io/github/followers/Rafacv23?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Rafacv23?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rafacv23.repoName) <img src="https://komarev.com/ghpvc/?username=Rafacv23" alt="Rafacv23" />
 
 ## I'm a Frontend web developer
